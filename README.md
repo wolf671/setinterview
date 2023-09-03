@@ -42,3 +42,6 @@ Opening the Web Application:
 Go to the "client" directory and open the "index.html" file.
 You can interact with the web application from there.  
 
+Preview of project:
+![preview](https://github.com/wolf671/setinterview/assets/53958064/96793cbe-e6a7-4916-b7fc-a6b560c9649c)
+
