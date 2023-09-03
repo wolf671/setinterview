@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+
+main {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.interview-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.interview-table th, .interview-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.container {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* Button Styles */
+.btn {
+    padding: 10px 20px;
+    background-color: #e91e63;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-primary {
+    background-color: #e91e63;
+    border-color: #e91e63;
+}
+.submit{
+    background-color: #e91e63;
+    border-color: #e91e63;
+}
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* Form Styles */
+.form-group label {
+    font-weight: bold;
+    color: #555;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
